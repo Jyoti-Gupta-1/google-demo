@@ -1,2 +1,2 @@
-h=hello
-print("h");
+h='hello'
+print('h');
